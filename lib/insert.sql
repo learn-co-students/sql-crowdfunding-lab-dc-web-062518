@@ -1,0 +1,65 @@
+
+
+INSERT INTO users (id, name, age) VALUES (1, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (2, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (3, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (4, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (5, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (6, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (7, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (8, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (9, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (10, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (11, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (12, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (13, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (14, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (15, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (16, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (17, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (18, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (19, "ruby", 21);
+INSERT INTO users (id, name, age) VALUES (20, "ruby", 21);
+
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (1, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (2, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (3, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (4, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (5, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (6, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (7, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, NULL, NULL, NULL, NULL, NULL);
+
+
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (1, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (2, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (3, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (4, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (5, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (6, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (7, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (8, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (9, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (10, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (11, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (12, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (13, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (14, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (15, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (16, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (17, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (18, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (19, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (20, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (21, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (22, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (23, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (24, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (25, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (26, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (27, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (28, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (29, NULL, NULL, NULL);
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES (30, NULL, NULL, NULL);
